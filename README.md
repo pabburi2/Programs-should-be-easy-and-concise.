@@ -53,7 +53,7 @@ console.log("hello");
 echo 'hello';
 
 👌 전문가, 해커
-리눅스 쉘에서 echo hello
+Linux Shell $> echo hello
 ```
 
 ## 보안
