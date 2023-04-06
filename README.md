@@ -1,4 +1,4 @@
-# The-program-should-be-easy-and-spaced
+# 다른 사람이 보았을 때 이해하기 쉬워야 한다.
 
 ## 클린코드
 
